@@ -1,0 +1,13 @@
+## ignore test files
+Output/
+Docs/
+Singleton design pattern/
+SST_clean_observer_singleton.xsl
+
+code_template.xsl
+parent_member_template.xsl
+
+
+## Ignore Visual Paradigm temporary files
+*.vpp.*
+*.vux*
