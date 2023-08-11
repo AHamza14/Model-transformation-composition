@@ -1,13 +1,15 @@
-## ignore test files
+## ignore test files and folders
 Output/
-Docs/
+
 Singleton design pattern/
 SST_clean_observer_singleton.xsl
 
+cmd_test.bat
+
 code_template.xsl
-parent_member_template.xsl
 
-
+Constraints.txt
+Todo.txt
 ## Ignore Visual Paradigm temporary files
 *.vpp.*
 *.vux*
