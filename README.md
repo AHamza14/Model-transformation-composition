@@ -1,6 +1,9 @@
 # Introduction
 The goal of this project is to create complex software systems by composing reusable model transformations.   
 
+# Files
+The file "project.xml" serves as the input model, which is obtained from the Visual Paradigm project presented at Docs/StationServiceSystem.vpp.
+
 # How to test
 1.	Install the transformation engine (SaxonHE9.9N), see the Docs folder for the exe.
 2.	Install Java (jdk-11.0.9).
